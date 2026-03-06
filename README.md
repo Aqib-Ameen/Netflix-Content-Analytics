@@ -200,13 +200,9 @@ This project demonstrates the full lifecycle of a data analytics workflow—from
 
 ---
 
-## Author
-![Author Badge](https://img.shields.io/badge/Section-Author-lightgrey?style=flat-square)
-
 **[Your Name]**
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/aqib-ameen)
+
 
 ---
 *Disclaimer: This project is for educational purposes and uses publicly available data from Kaggle.*
