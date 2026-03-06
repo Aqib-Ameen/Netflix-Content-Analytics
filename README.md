@@ -155,9 +155,6 @@ Netflix-Content-Analytics/
 ## Dashboard Preview
 ![Preview Badge](https://img.shields.io/badge/Section-Dashboard%20Preview-9ff?style=flat-square)
 
-*(Placeholder for Dashboard Screenshot)*
-![Dashboard Preview](https://via.placeholder.com/1000x500.png?text=Netflix+Analytics+Dashboard+Preview)
-
 ---
 
 ## How to Run This Project
@@ -200,7 +197,7 @@ This project demonstrates the full lifecycle of a data analytics workflow—from
 
 ---
 
-**[Your Name]**
+**Aqib Ameen**
 - [LinkedIn](https://www.linkedin.com/in/aqib-ameen)
 
 
